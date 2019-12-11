@@ -38,7 +38,7 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila2PC1
-
+He hecho una fork del repositorio original a uno mio, despues he clonado a un repositorio remoto, ahi he creado una nueva rama con mi nombre en la cual he modificado el archivo .java añandiendo un metodo que su funcion es la de desear nuevo año 2020 con mi nombre incluido, lo he llamado desde el main, he añadido los cambios hechos a mi rama con un commit nuevo, luego he modificado este fichero con el proceso de la actividad con su commit y descripcion correspondiente y para finalizar hare un pull-request.
 
 #### AlumnoFila2PC2
 
